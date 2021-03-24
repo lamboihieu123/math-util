@@ -1,5 +1,7 @@
 ## Welcome to Math Utility Repository. This repo offers varius math methods used as a helper for your project.
 
+[![Practice CI with GitHub Actions using Ant and JUnit | © 2021 by boi.hieu](https://github.com/lamboihieu123/math-util/actions/workflows/mathutil-ci-actions.yml/badge.svg)](https://github.com/lamboihieu123/math-util/actions/workflows/mathutil-ci-actions.yml)
+
 ### *_You will find in this repo the following sutff:_*
 
 * .gitignore file itself to demonstrate how to ask the Git tool to upload a file or not
